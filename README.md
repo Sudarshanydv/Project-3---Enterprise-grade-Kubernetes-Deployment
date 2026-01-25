@@ -1,4 +1,4 @@
-# ENTERPRISE-GRADE KUBERNETES DEPLOYMENT
+# Project 3 - ENTERPRISE-GRADE KUBERNETES DEPLOYMENT
 
 ## Complete Step-by-Step Guide (Industry Level – Beginner Friendly)
 
