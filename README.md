@@ -2,7 +2,7 @@
 
 ## Complete Step-by-Step Guide (Industry Level – Beginner Friendly)
  
-> **What you will build (in simple words):**
+> **What you will build (in simple words):** 
 > You will deploy a **production-ready web application** on **Kubernetes (AWS EKS)** using **enterprise best practices** like namespaces, deployments, services, configmaps, secrets, autoscaling, and rolling updates.
 
 This guide is written in **very simple, clear English**, exactly how **real DevOps engineers work in companies**.
