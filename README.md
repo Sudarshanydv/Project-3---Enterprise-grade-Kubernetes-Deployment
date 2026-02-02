@@ -1,7 +1,7 @@
 # Project 3 - ENTERPRISE-GRADE KUBERNETES DEPLOYMENT
 
 ## Complete Step-by-Step Guide (Industry Level – Beginner Friendly)
-
+ 
 > **What you will build (in simple words):**
 > You will deploy a **production-ready web application** on **Kubernetes (AWS EKS)** using **enterprise best practices** like namespaces, deployments, services, configmaps, secrets, autoscaling, and rolling updates.
 
