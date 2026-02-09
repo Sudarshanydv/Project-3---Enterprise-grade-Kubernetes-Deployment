@@ -1,6 +1,6 @@
 # Project 3 - ENTERPRISE-GRADE KUBERNETES DEPLOYMENT
 
-## Complete Step-by-Step Guide (Industry Level – Beginner Friendly)
+## Complete Step-by-Step Guide
  
 > **What you will build (in simple words):** 
 > You will deploy a **production-ready web application** on **Kubernetes (AWS EKS)** using **enterprise best practices** like namespaces, deployments, services, configmaps, secrets, autoscaling, and rolling updates.
@@ -310,18 +310,8 @@ enterprise-container=yourdockerhub/enterprise-app:v2 -n production
 
 ---
 
-## 2️⃣0️⃣ Interview Explanation (Simple)
+## 2️⃣0️⃣ Interview Explanation 
 
 > "I containerized the application, deployed it on AWS EKS using Kubernetes best practices like namespaces, services, autoscaling, and rolling updates, ensuring high availability and zero downtime."
 
 ---
-
-## 2️⃣1️⃣ Next Enhancements (Advanced)
-
-* Ingress + Domain
-* Helm charts
-* Prometheus & Grafana
-* CI/CD with GitHub Actions
-* Terraform
-
-👉 Tell me what you want next 👍
